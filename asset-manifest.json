@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PaulSarbajit/Shopping-Cart-App.git/static/css/main.68b6218e.chunk.css",
+    "main.js": "/PaulSarbajit/Shopping-Cart-App.git/static/js/main.a97130d3.chunk.js",
+    "main.js.map": "/PaulSarbajit/Shopping-Cart-App.git/static/js/main.a97130d3.chunk.js.map",
+    "runtime-main.js": "/PaulSarbajit/Shopping-Cart-App.git/static/js/runtime-main.3dd69116.js",
+    "runtime-main.js.map": "/PaulSarbajit/Shopping-Cart-App.git/static/js/runtime-main.3dd69116.js.map",
+    "static/js/2.8b283a95.chunk.js": "/PaulSarbajit/Shopping-Cart-App.git/static/js/2.8b283a95.chunk.js",
+    "static/js/2.8b283a95.chunk.js.map": "/PaulSarbajit/Shopping-Cart-App.git/static/js/2.8b283a95.chunk.js.map",
+    "index.html": "/PaulSarbajit/Shopping-Cart-App.git/index.html",
+    "precache-manifest.1bc1276b4aa9ec660c2331322ab658a1.js": "/PaulSarbajit/Shopping-Cart-App.git/precache-manifest.1bc1276b4aa9ec660c2331322ab658a1.js",
+    "service-worker.js": "/PaulSarbajit/Shopping-Cart-App.git/service-worker.js",
+    "static/css/main.68b6218e.chunk.css.map": "/PaulSarbajit/Shopping-Cart-App.git/static/css/main.68b6218e.chunk.css.map",
+    "static/js/2.8b283a95.chunk.js.LICENSE.txt": "/PaulSarbajit/Shopping-Cart-App.git/static/js/2.8b283a95.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3dd69116.js",
+    "static/js/2.8b283a95.chunk.js",
+    "static/css/main.68b6218e.chunk.css",
+    "static/js/main.a97130d3.chunk.js"
+  ]
+}
